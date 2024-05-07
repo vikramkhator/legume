@@ -1,0 +1,5 @@
+import numpy as np
+import legume
+
+%load_ext autoreload
+%autoreload 2
